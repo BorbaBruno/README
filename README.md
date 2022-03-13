@@ -9,7 +9,7 @@
 </div>
 
 <div align = center>
-  <a href="https://github.com/borbabruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borbabruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabruno&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/BorbaBruno">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=borbabruno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borbabruno&layout=compact&langs_count=7&theme=dark"/>
 <div>
