@@ -1,7 +1,7 @@
 <div align = center>
 <h1> Olá eu sou o Bruno Borba 😁 </h1>
 <h2> Um pouco sobre mim... </h2>
-<p> - Um jovem de 26 anos, que decidiu fazer uma transição de carreira, pois descobriu que se encontra muito mais na área da tecnologia, especialmente na área da programação por que adora codar e ver resultados.
+<p> - Um jovem de 27 anos, que decidiu fazer uma transição de carreira, pois descobriu que se encontra muito mais na área da tecnologia, especialmente na área da programação por que adora codar e ver resultados.
 <p> - Estudante de Análise e Desenvolvimento de Sistemas, na Universidade do Vale dos Sinos (UNISINOS).
 <p> - Trabalho na área de suporte em uma empresa provedora de Internet, onde minhas atribuições são dar suporte aos usuários e fazer análise de redes (Não é bem o que eu quero, mas já é um começo).
 <p> - 🎶 Amante de LOFI, Chill Vibes, Guitar Vibes e Jazz, por que me deixam relaxado para aflorar minhas idéias enquanto estudo, trabalho ou coding.
