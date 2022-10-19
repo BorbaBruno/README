@@ -3,9 +3,9 @@
 <h2> Um pouco sobre mim... </h2>
 <p> - Um jovem de 27 anos, que optou por uma uma transição de carreira, pois descobriu que se encontra muito mais na área da tecnologia, especialmente na programação, por que ama codar e ver resultados.
 <p> - Estudante de Análise e Desenvolvimento de Sistemas na Universidade do Vale dos Sinos (UNISINOS) e também na @Rocketseat.
-<p> - Trabalho na área de suporte em uma empresa provedora de Internet, onde minhas atribuições são dar suporte aos usuários e fazer análises de redes, porém meu interesse maior é no desenvolvimento Front-end e Back-end(Full-Stack).
+<p> - Atualmente estou na área de Suporte(Redes), em uma empresa provedora de Internet, onde minhas atribuições são dar suporte aos usuários e fazer análises de redes, porém meu interesse maior é no desenvolvimento Front-end e Back-end(Full-Stack).
 <p> - 🎶 Amante de LOFI, Chill Vibes, Guitar Vibes e Jazz, que me deixam relaxado para aflorar minhas idéias e concentração enquanto estudo, trabalho ou coding.
-<p> - Conhecimentos básicos em HTML, CSS, JS e JAVA, sempre buscando evoluir a cada dia.
+<p> - Conhecimentos em HTML, CSS, JS, JAVA e SQL(básico), em busca da melhoria contínua.
 </div>
 
 <div align = center>
